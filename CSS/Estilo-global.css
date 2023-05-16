@@ -1,0 +1,17 @@
+/* ESTILOS GLOBAIS DO SITE */
+
+html {
+
+        height: 100px; }
+
+body{
+
+    background-color: greenyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+     'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+     color: lightblue;
+     margin: 0;
+
+ }
+
+
