@@ -1,0 +1,55 @@
+/* ESTILO DA PAGINA INDEX */ 
+
+.T1 {
+
+    text-align:left;
+}
+
+.texto1 {
+
+    text-align:justify;
+}
+
+.texto2 {
+
+    text-align: justify;
+}
+
+ 
+ .video-you-tube{
+    
+    margin-left: 7px;
+    margin-right: auto;
+    width: 6em;
+    
+ }
+
+ @media screen and (min-width: 992px) {
+   
+    .imagem1{
+
+        width: 50%;
+
+    }
+
+    .imagem2{
+
+        width: 45%;
+
+    }
+
+    .imagens{
+
+        display: flex;
+        margin: auto 5%;
+    }
+    
+    .video-you-tube{
+    
+        margin-left: 15%;
+        margin-right: auto;
+        width: 6em;
+        
+     }
+
+} 
