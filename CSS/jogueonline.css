@@ -1,0 +1,30 @@
+main 
+
+.nintendo {
+
+    width: 75%;
+   align-items: center;
+    
+}
+
+.nintendo2 {
+
+    align-items: center;
+
+
+}
+
+.legenda {
+    
+    font-size: medium;
+    color: #008bf8;
+}
+
+@media screen and (min-width: 992px) {
+   
+    .nintendo2 {
+
+        width: 45%;
+        margin: 10% 30%;
+    }
+}
