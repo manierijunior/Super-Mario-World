@@ -1,0 +1,42 @@
+main
+
+
+.T1 {
+
+    text-align:left;
+}
+
+
+@media screen and (min-width: 992px) {
+
+.figura1 {
+
+        width: 27%;
+
+}
+
+.figura2 {
+
+    width: 30%;
+
+}
+
+
+.figura3 {
+
+    width: 30%;
+
+}
+
+.Figuras{
+
+    display: flex;
+    margin: auto 5%;
+}
+}
+
+
+
+
+
+
